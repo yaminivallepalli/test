@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?><HTML xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="js webkit chrome js no-touch csstransitions"><HEAD><STYLE>
+    .address {float:left; margin-top:10px;}
+
+    .address h5 {margin:15px 0 0 0; padding:0; background-color:#f4f3f0; border:solid 1px #e0e0e0; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; height:37px; line-height:37px; font-size:18px; color:#3f3f3f; padding-left:10px; width:210px; }
+
+    .address span a {display:block; padding-bottom:15px; color:#3f3f3f; font-size:12px;}
+
+    .address span a:hover {text-decoration:none;}
+
+    .address span strong {font-size:13px;}
+
+
+
+    #googlemap {margin-top:25px; padding-bottom:25px; float:left; border-bottom:solid 1px #bbbbbb; margin-bottom:25px;width:90%}
+
+    #googlemap .map {width:100%; border:solid 1px #c5c5c5; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; border-bottom-right-radius:0px; -moz-border-bottom-right-radius:0px; -webkit-border-bottom-right-radius:0px; border-bottom-left-radius:0px; -moz-border-bottom-left-radius:0px; -webkit-border-bottom-left-radius:0px; border-bottom:none;}
+
+    #addresses {padding-top:0px;margin-top: -75px;}
+
+    #addresslist {margin:0; padding:0; list-style:none; width:100%; clear:both;}
+
+    #addresslist li {float:left; width:205px; list-style:none; height:140px; margin-left:0px;}
+
+    #addresslist li:first-child {margin-left:0;}
+
+    #addresslist li p{color:#02578d; font-size:12px;}
+
+    #addresslist li h1 {color:#000; font-size:20px; font-family:"myriad Pro"; cursor:pointer;}
+
+    #california, #pleasanton, #texas, #hyderabad, #bengaluru, #belgium {display:none; width:100%;}
+
+    #off_nums {list-style:none; margin:0 !important; padding:0 !important;}
+
+    #off_nums li {list-style:none; float:left; width:255px; color:#02578d; font-size:12px;}
+
+    #off_nums li span {color:#000;}
+
+
+
+    .ninja-forms-error-msg div{ color:#ff0000; font-size:13px;}
+
+    @media (max-width: 320px) {
+        .custom-address div.bang { min-height: 230px;}
+    }
+    @media (min-width:900px) and (max-width:25000000px) {
+        .col-lg-2 {
+            width: 24.667% !important;
+        }
+    }
+    .custom-address  p {
+        color: #02578d;
+        font-size: 12px;
+    }
+    .custom-address h1 {
+        color: #000;
+        
+        font-family: "myriad Pro";
+        font-size: 20px;
+        font-weight:bold;
+    }
+    .custom-address h1 a{
+        cursor: pointer;
+    }
+    .custom-address h1 a i{
+        color: #ff0000;
+        padding-right: 5px;
+    }
+</STYLE>
+
+
+
+
+
+
+	<META charset="UTF-8"/>
+
+    <TITLE>Contact us to get Technical support and offices info | DevRabbit</TITLE>
+
+    
+    
+    <!-- Pinterest Meta -->
+    <META name="p:domain_verify" content="b1ab3250a9410d91eb8d038691f14b84"/>
+    
+    <META name="google-site-verification" content="M4urm5P_ke7D8pwUzFNmTkrlhVtnnoyJx0JUIRzY7WE"/>
+    <!-- Mobile Specific Meta -->
+
+	<META name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+     <!-- Pingbacks -->
+
+	<LINK rel="pingback" href="https://www.devrabbit.com/xmlrpc.php"/>
+
+    <SCRIPT type="text/javascript" async="" src="https://widget.intercom.io/widget/s13dlt9i"/><SCRIPT type="text/javascript" src="https://ws.sharethis.com/button/p.js" async=""/><SCRIPT async="" src="//adpxljs.adpxl.co/timeme.min-2.js"/><SCRIPT async="" src="//fl.adpxl.co/adpxlana-va_spa2.1.js"/><SCRIPT type="text/javascript" id="async-buttons" src="https://ws.sharethis.com/button/async-buttons.js"/><SCRIPT async="" src="https://www.google-analytics.com/analytics.js"/><SCRIPT type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/api2/v1556519546724/recaptcha__en.js"/><SCRIPT type="text/javascript">var TemplateDir='https://www.devrabbit.com/wp-content/themes/yopta'</SCRIPT>
+	<!-- Favicon -->
+
+	
+		<LINK rel="shortcut icon" href="https://www.devrabbit.com/wp-content/uploads/2016/04/DevRabbit_favicon.png"/>
+
+	
+	
+<!-- All in One SEO Pack 2.3.11 by Michael Torbert of Semper Fi Web Design[2496,2581] -->
+<META name="description" content="Find corporate contact information of DevRabbit offices worldwide and get technical support, IT services offering and tech consulting solutions. Contact us"/>
+
+<LINK rel="canonical" href="https://www.devrabbit.com/contact/"/>
+<!-- /all in one seo pack -->
+<LINK rel="alternate" type="application/rss+xml" title="Software Company in Pleasanton CA USA | DevRabbit IT Solutions � Feed" href="https://www.devrabbit.com/feed/"/>
+<LINK rel="alternate" type="application/rss+xml" title="Software Company in Pleasanton CA USA | DevRabbit IT Solutions � Comments Feed" href="https://www.devrabbit.com/comments/feed/"/>
+		<SCRIPT type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.devrabbit.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.23"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&amp;&amp;c.getContext("2d");return d&amp;&amp;d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length&gt;3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&amp;&amp;c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&amp;&amp;c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&amp;&amp;f.twemoji&amp;&amp;(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</SCRIPT><SCRIPT src="https://www.devrabbit.com/wp-includes/js/wp-emoji-release.min.js?ver=4.2.23" type="text/javascript"/>
+		<STYLE type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</STYLE>
+<LINK rel="stylesheet" id="jquery-ui-css" href="https://www.devrabbit.com/wp-content/plugins/form-maker/css/jquery-ui-1.10.3.custom.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="jquery-ui-spinner-css" href="https://www.devrabbit.com/wp-content/plugins/form-maker/css/jquery-ui-spinner.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="form_maker_calendar-jos-css" href="https://www.devrabbit.com/wp-content/plugins/form-maker/css/calendar-jos.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="form_maker_frontend-css" href="https://www.devrabbit.com/wp-content/plugins/form-maker/css/form_maker_frontend.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="rs-plugin-settings-css" href="https://www.devrabbit.com/wp-content/plugins/revslider/rs-plugin/css/settings.css?ver=4.6.5" type="text/css" media="all"/>
+<STYLE id="rs-plugin-settings-inline-css" type="text/css">
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</STYLE>
+<LINK rel="stylesheet" id="wpsm_tabs_r-font-awesome-front-css" href="https://www.devrabbit.com/wp-content/plugins/tabs-responsive/assets/css/font-awesome/css/font-awesome.min.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="wpsm_tabs_r_bootstrap-front-css" href="https://www.devrabbit.com/wp-content/plugins/tabs-responsive/assets/css/bootstrap-front.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="wpsm_tabs_r_animate-css" href="https://www.devrabbit.com/wp-content/plugins/tabs-responsive/assets/css/animate.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-font-awesome.min.css-css" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-1.start-style-03-11-2017.css-css" href="https://www.devrabbit.com/wp-content/themes/yopta/css/1.start-style-03-11-2017.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-1.start-style.css-css" href="https://www.devrabbit.com/wp-content/themes/yopta/css/1.start-style.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-bootstrap.css-css" href="https://www.devrabbit.com/wp-content/themes/yopta/css/bootstrap.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-screen-03-11-2017.css-css" href="https://www.devrabbit.com/wp-content/themes/yopta/css/screen-03-11-2017.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-screen-12-10-2018.css-css" href="https://www.devrabbit.com/wp-content/themes/yopta/css/screen-12-10-2018.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-swipebox.css-css" href="https://www.devrabbit.com/wp-content/themes/yopta/css/swipebox.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-main-style-css" href="https://www.devrabbit.com/wp-content/themes/yopta/css/screen.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="tt-theme-style-css" href="https://www.devrabbit.com/wp-content/themes/yopta/style.css?ver=4.2.23" type="text/css" media="all"/>
+<SCRIPT type="text/javascript">
+/* &lt;![CDATA[ */
+var tesla_ajax = {"url":"https:\/\/www.devrabbit.com\/wp-admin\/admin-ajax.php","nonce":"81c378c2d5"};
+tesla_ajax.actions = {portfolio:{},
+tesla_services:{},
+tesla_testimonials:{},
+tesla_clients:{},
+tesla_toggle:{},
+tesla_team:{},
+tesla_pricing_tables:{},
+tesla_skills:{},
+};
+/* ]]&gt; */
+</SCRIPT>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/jquery.js?ver=1.11.2"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"/>
+<SCRIPT type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false&amp;ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/form-maker/js/if_gmap_front_end.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/form-maker/js/jelly.min.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/form-maker/js/file-upload.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/form-maker/js/calendar/calendar.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/form-maker/js/calendar/calendar_function.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?ver=4.6.5"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?ver=4.6.5"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/tesla_framework/static/js/holder.js"/>
+<LINK rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.devrabbit.com/xmlrpc.php?rsd"/>
+<LINK rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.devrabbit.com/wp-includes/wlwmanifest.xml"/> 
+<META name="generator" content="WordPress 4.2.23"/>
+<LINK rel="shortlink" href="https://www.devrabbit.com/?p=1449"/>
+		<SCRIPT type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '3927ba8c4d';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"https://www.devrabbit.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</SCRIPT>
+		<SCRIPT type="text/javascript">var ajaxurl = 'https://www.devrabbit.com/wp-admin/admin-ajax.php';</SCRIPT>	<STYLE type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</STYLE>
+                
+                <STYLE>
+                    #back-to-top {
+                          position: fixed;
+                          bottom: 90px;
+                          right: 40px;
+                          z-index: 9999;
+                          width: 32px;
+                          height: 32px;
+                          text-align: center;
+                          line-height: 35px;
+                          background: rgba(0, 89, 113, .8);
+                          color: #ececec;
+                          font-size: 10px;
+                          cursor: pointer;
+                          border: 0;
+                          border-radius: 2px;
+                          text-decoration: none;
+                          transition: opacity 0.2s ease-out;
+                          -webkit-transition: opacity 0.2s ease-out;
+                          opacity: 0;
+                  }
+                  #back-to-top i{
+                      font-size: 30px
+                  }
+                  
+                  #back-to-top:hover {
+                          background: #3e3e3e;
+                  }
+                  #back-to-top.show {
+                          opacity: 1;
+                  }   
+                  .text-slant{
+	font-weight: 700;
+	font-style: italic;
+	color: #000000;
+}
+                  
+                  
+                </STYLE>
+
+                <SCRIPT>
+	// Select all links with hashes
+        
+    
+            jQuery(function($){
+if ($('#back-to-top').length) {
+  
+        var scrollTrigger = 100, // px
+            backToTop = function() {
+                var scrollTop = $(window).scrollTop();
+                if (scrollTop &gt; scrollTrigger) {
+                    $('#back-to-top').addClass('show');
+                } else {
+                    $('#back-to-top').removeClass('show');
+                }
+            };
+        backToTop();
+        $(window).on('scroll', function() {
+            backToTop();
+        });
+        $('#back-to-top').on('click', function(e) {
+            e.preventDefault();
+            $('html,body').animate({
+                scrollTop: 0
+            }, 700);
+        });
+    }
+    
+    $('a[href*="#"]')
+  // Remove links that don't actually link to anything
+  .not('[href="#"]')
+  .not('[href="#0"]')
+  .click(function(event) {
+    // On-page links
+    if (
+      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+      &amp;&amp; 
+      location.hostname == this.hostname
+    ) {
+      // Figure out element to scroll to
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      // Does a scroll target exist?
+      if (target.length) {
+        // Only prevent default if animation is actually gonna happen
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000, function() {
+          // Callback after animation
+          // Must change focus!
+          var $target = $(target);
+          $target.focus();
+          if ($target.is(":focus")) { // Checking if the target was focused
+            return false;
+          } else {
+            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+            $target.focus(); // Set focus again
+          };
+        });
+      }
+    }
+  });
+    });
+    
+    
+	</SCRIPT>
+<LINK rel="stylesheet" type="text/css" href="https://ws.sharethis.com/button/css/buttons-secure.css"/><STYLE id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</STYLE><IFRAME id="stSegmentFrame" name="stSegmentFrame" frameborder="0" scrolling="no" width="0px" height="0px" sandbox="allow-scripts allow-same-origin" style="display:none;"/><SCRIPT type="text/javascript" charset="UTF-8" src="https://maps.google.com/maps-api-v3/api/js/36/12/intl/en_au/common.js"/><SCRIPT type="text/javascript" charset="UTF-8" src="https://maps.google.com/maps-api-v3/api/js/36/12/intl/en_au/util.js"/><SCRIPT type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/36/12/intl/en_au/stats.js"/></HEAD>
+
+<BODY class="page page-id-1449 page-template page-template-template-contacts-custom page-template-template-contacts-custom-php">
+
+    <!-- ========================= START HEADER ======================== -->
+
+    <HEADER class="main-header">
+
+        <DIV class="">
+
+            <DIV class="main-header-top-border">
+
+                <!--<div class="main-header-line"></div>-->
+
+                <DIV class="main-header-inside">
+					
+					<DIV class="topheader">
+						<DIV class="container">
+
+                        <DIV class="col-md-7 col-sm-7">
+
+                            <UL class="header-info">
+
+                                
+                                
+                                    <LI><A class="d-text-c-h" href="mailto:info@devrabbit.com"><I class="fa fa-envelope-o"/> info@devrabbit.com</A></LI>
+
+                                
+                                 
+
+                                    <LI><I class="fa fa-phone"/> 1 650 352 8686</LI>
+
+                                
+                            </UL>
+
+                        </DIV>
+
+                        <DIV class="col-md-5 col-sm-5">
+
+                            <UL class="social-links-2">
+
+                                
+                                        <LI>
+
+                                            <A class="social-facebook" href="https://www.facebook.com/devrabbits" target="_blank"><I class="fa fa-facebook" title="facebook"/></A>
+
+                                        </LI>
+
+                                    
+                                        <LI>
+
+                                            <A class="social-twitter" href="https://twitter.com/socialdevrabbit" target="_blank"><I class="fa fa-twitter" title="twitter"/></A>
+
+                                        </LI>
+
+                                    
+                                        <LI>
+
+                                            <A class="social-google" href="https://plus.google.com/+Devrabbit" target="_blank"><I class="fa fa-google" title="google"/></A>
+
+                                        </LI>
+
+                                    <LI><A class="social-linkedin" href="https://www.linkedin.com/company/devrabbit-it-solutions/" target="_blank"><I class="fa fa-linkedin" title="LinkedIn"/></A></LI>
+                            </UL>
+
+                        </DIV> 
+						
+						</DIV>
+
+                    </DIV>
+					
+					<!--- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+                    <DIV class="box-mini-header">
+
+                        <DIV class="">
+						
+						<DIV class="container">
+							
+                            
+                            <DIV class="col-md-3">
+
+                                <DIV class="logo">
+
+                                    <A href="https://www.devrabbit.com" style="">
+
+                                        
+                                          <!--  <span></span>-->
+
+                                            <IMG src="https://www.devrabbit.com/wp-content/uploads/2016/04/logo21.png" alt="DevRabbit - Smart IT Delivered"/>
+
+                                        
+                                    </A>
+
+                                </DIV>
+
+                            </DIV>
+
+                            <DIV class="col-md-9">
+
+                                <NAV class="main-nav">
+
+                                    <DIV class="responsive-menu"><I class="fa fa-align-justify"/> Menu</DIV>
+
+                                    <UL class="clean-list clearfix" style="display: none;">
+
+                                        <LI id="menu-item-399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-399"><A href="https://www.devrabbit.com/business-assurance-services/">Services</A>
+<UL class="sub-menu">
+	<LI id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><A href="https://www.devrabbit.com/business-assurance-services/">Business Assurance Services</A></LI>
+	<LI id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><A href="https://www.devrabbit.com/iot-solutions-and-services/">IoT Solutions and Services</A></LI>
+	<LI id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><A href="https://www.devrabbit.com/enterprise-mobile-application-development-company/">Enterprise Applications</A></LI>
+	<LI id="menu-item-1000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1000"><A href="https://www.devrabbit.com/enterprise-marketing/">Enterprise Marketing</A></LI>
+	<LI id="menu-item-1879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1879"><A href="https://www.devrabbit.com/bfs-testing/">BFS Testing</A></LI>
+	<LI id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><A href="https://www.devrabbit.com/staffing/">Staffing</A></LI>
+</UL>
+</LI>
+<LI id="menu-item-834" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-834"><A href="https://www.devrabbit.com/bfs/">Industries</A>
+<UL class="sub-menu">
+	<LI id="menu-item-1876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1876"><A href="https://www.devrabbit.com/industries/bfs/">BFS</A></LI>
+	<LI id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375"><A href="https://www.devrabbit.com/industries/healthcare/">Healthcare</A></LI>
+	<LI id="menu-item-374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-374"><A href="https://www.devrabbit.com/industries/retail/">Retail/POS</A></LI>
+	<LI id="menu-item-373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-373"><A href="https://www.devrabbit.com/industries/education/">Education</A></LI>
+	<LI id="menu-item-372" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372"><A href="https://www.devrabbit.com/industries/consumer/">Consumer</A></LI>
+	<LI id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><A href="https://www.devrabbit.com/industries/automotive/">Automotive</A></LI>
+	<LI id="menu-item-1016" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1016"><A href="https://www.devrabbit.com/industries/travel-hospitality/">Travel &amp; Hospitality</A></LI>
+</UL>
+</LI>
+<LI id="menu-item-833" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-833"><A href="https://www.devrabbit.com/technology/mobile-strategy/">Technology</A>
+<UL class="sub-menu">
+	<LI id="menu-item-1899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1899"><A href="https://www.devrabbit.com/technology/mobile-strategy/">Mobile Strategy</A></LI>
+	<LI id="menu-item-359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><A href="https://www.devrabbit.com/technology/frameworks/">Frameworks</A></LI>
+	<LI id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><A href="https://www.devrabbit.com/technology/mobile-app-testing/">Mobile Application Testing</A></LI>
+	<LI id="menu-item-357" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><A href="https://www.devrabbit.com/technology/mobile-bi/">Mobile BI</A></LI>
+	<LI id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><A href="https://www.devrabbit.com/technology/app-cloud-hosting/">App Cloud Hosting</A></LI>
+	<LI id="menu-item-355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><A href="https://www.devrabbit.com/technology/xamarin-consulting/">Xamarin Consulting</A></LI>
+</UL>
+</LI>
+<LI id="menu-item-835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-835"><A href="https://www.devrabbit.com/insights/blog/">InSights</A>
+<UL class="sub-menu">
+	<LI id="menu-item-380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-380"><A href="https://www.devrabbit.com/insights/blog/">Blog</A></LI>
+	<LI id="menu-item-379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-379"><A href="https://www.devrabbit.com/insights/case-studies/">Case Studies</A></LI>
+	<LI id="menu-item-600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-600"><A href="https://www.devrabbit.com/insights/faq/">FAQ</A></LI>
+</UL>
+</LI>
+<LI id="menu-item-900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-900"><A href="https://www.devrabbit.com/about/">Company</A>
+<UL class="sub-menu">
+	<LI id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-903"><A href="https://www.devrabbit.com/company/about/">About Us</A></LI>
+	<LI id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><A href="https://www.devrabbit.com/company/partnerships/">Partnerships</A></LI>
+	<LI id="menu-item-326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><A href="https://www.devrabbit.com/company/careers/">Careers</A></LI>
+	<LI id="menu-item-391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-391"><A href="https://www.devrabbit.com/company/testimonials/">Testimonials</A></LI>
+</UL>
+</LI>
+<LI id="menu-item-1476" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1449 current_page_item menu-item-1476"><A href="https://www.devrabbit.com/contact/">Contact</A></LI>
+
+                                    </UL>
+
+                                </NAV>
+
+                            </DIV>
+
+
+                        </DIV>
+						
+						</DIV>
+
+                    </DIV>
+
+
+
+                    
+
+                </DIV>
+
+            </DIV>
+
+        </DIV>
+
+    </HEADER>
+
+    <!-- ========================= END HEADER ======================== -->
+
+
+
+
+
+
+
+
+
+    <!-- ========================= START CONTENT ======================== -->
+
+    <DIV class="content"><DIV class="site-path">
+    <DIV class="site-path-inside">
+        <H1>Contact</H1>
+    </DIV>
+</DIV>
+<DIV class="container">
+
+    <DIV class="row">
+
+        <DIV class="col-md-12">
+
+            <DIV class="row custom-address">
+                <DIV class="col-sm-3">
+                    <H1><A id="clf"><I class="fa fa-map-marker"/> California</A></H1>
+                    <P> 7950 Dublin Blvd., <BR/>
+                        Suite 314, <BR/>
+                        Dublin, CA 94568<BR/>
+                    </P>
+                    <P><SPAN>Desk:</SPAN> +1-650-352-8686<BR/> 
+                    <SPAN>Email:</SPAN> <A href="mailto:info@devrabbit.com" style="font-weight:normal;">info@devrabbit.com</A></P>
+                </DIV>
+				
+				<DIV class="col-sm-3">
+                    <H1><A id="pls"><I class="fa fa-map-marker"/> Pleasanton</A></H1>
+                    <P> 5776 Stoneridge Mall Rd, <BR/>
+                        Suite 280, <BR/>
+                        Pleasanton, CA 94588<BR/>
+                    </P>
+                    <P><SPAN>Desk:</SPAN> +1-650-352-8686 Ext: 101<BR/> 
+                    <SPAN>Email:</SPAN> <A href="mailto:info@devrabbit.com" style="font-weight:normal;">info@devrabbit.com</A></P>
+                </DIV>
+
+                <DIV class="col-sm-3">
+                    <H1><A id="hyd"><I class="fa fa-map-marker"/> Hyderabad</A></H1>
+                    <P>8-2-268/R/5, Sagar Society, <BR/>
+                        Road No.2, Banjara Hills, <BR/>
+                        Hyderabad, India<BR/>
+                    </P>
+                    <P><SPAN>Office:</SPAN> +91-40-2355-1445</P>
+                </DIV>
+                <DIV class="col-sm-3">
+
+                    <H1><A id="tpth"><I class="fa fa-map-marker"/> Tirupati</A></H1>
+                    <P>19-8-112/D, 4th Floor<BR/>
+                        Air Bypass Road,<BR/>
+                        Tirupati, India<BR/>
+                    </P>
+                    <P><SPAN>Office:</SPAN> +91-877-2246445</P>
+                </DIV>
+                <DIV id="service_indicator"/>
+
+            </DIV>
+            <DIV class="row" style="border-bottom:1px solid #bbbbbb; margin-bottom: 25px;">
+            </DIV>
+
+
+
+        </DIV>
+        <DIV class="clearfix"/>
+        <DIV class="row">
+            <DIV class="col-md-4">
+                <DIV class="contact-details">
+                    	<DIV id="ninja_forms_form_6_cont" class="ninja-forms-cont">
+		<DIV id="ninja_forms_form_6_wrap" class="ninja-forms-form-wrap">
+	<DIV id="ninja_forms_form_6_response_msg" style="" class="ninja-forms-response-msg "/>	<FORM id="ninja_forms_form_6" enctype="multipart/form-data" method="post" name="" action="" class="ninja-forms-form">
+
+	<INPUT type="hidden" id="_wpnonce" name="_wpnonce" value="94eee39984"/><INPUT type="hidden" name="_wp_http_referer" value="/contact/"/>	<INPUT type="hidden" name="_ninja_forms_display_submit" value="1"/>
+	<INPUT type="hidden" name="_form_id" id="_form_id" value="6"/>
+		<DIV class="hp-wrap">
+		<LABEL>If you are a human and are seeing this field, please leave it blank.			<INPUT type="text" value="" name="_ymAAr"/>
+			<INPUT type="hidden" value="_ymAAr" name="_hp_name"/>
+		</LABEL>
+	</DIV>
+		<DIV id="ninja_forms_form_6_all_fields_wrap" class="ninja-forms-all-fields-wrap">
+			<DIV class="ninja-forms-required-items">Fields marked with an <SPAN class="ninja-forms-req-symbol">*</SPAN> are required</DIV>
+								<DIV class="field-wrap text-wrap label-above" id="ninja_forms_field_19_div_wrap" data-visible="1">
+							<INPUT type="hidden" id="ninja_forms_field_19_type" value="text"/>
+		<LABEL for="ninja_forms_field_19" id="ninja_forms_field_19_label" class="">Name <SPAN class="ninja-forms-req-symbol"><STRONG>*</STRONG></SPAN>				</LABEL>
+			<INPUT id="ninja_forms_field_19" data-mask="" data-input-limit="" data-input-limit-type="char" data-input-limit-msg="character(s) left" name="ninja_forms_field_19" type="text" placeholder="" class="ninja-forms-field  ninja-forms-req " value="" rel="19"/>
+		<DIV id="ninja_forms_field_19_error" style="display:none;" class="ninja-forms-field-error">
+		</DIV>
+							</DIV>
+												<DIV class="field-wrap text-wrap label-above" id="ninja_forms_field_20_div_wrap" data-visible="1">
+							<INPUT type="hidden" id="ninja_forms_field_20_type" value="text"/>
+		<LABEL for="ninja_forms_field_20" id="ninja_forms_field_20_label" class="">Email <SPAN class="ninja-forms-req-symbol"><STRONG>*</STRONG></SPAN>				</LABEL>
+			<INPUT id="ninja_forms_field_20" data-mask="" data-input-limit="" data-input-limit-type="char" data-input-limit-msg="" name="ninja_forms_field_20" type="text" placeholder="" class="ninja-forms-field  ninja-forms-req email " value="" rel="20"/>
+		<DIV id="ninja_forms_field_20_error" style="display:none;" class="ninja-forms-field-error">
+		</DIV>
+							</DIV>
+												<DIV class="field-wrap text-wrap label-above" id="ninja_forms_field_23_div_wrap" data-visible="1">
+							<INPUT type="hidden" id="ninja_forms_field_23_type" value="text"/>
+		<LABEL for="ninja_forms_field_23" id="ninja_forms_field_23_label" class="">Phone 				</LABEL>
+			<INPUT id="ninja_forms_field_23" data-mask="(999) 999-9999" data-input-limit="" data-input-limit-type="char" data-input-limit-msg="" name="ninja_forms_field_23" type="text" placeholder="" class="ninja-forms-field  ninja-forms-mask" value="" rel="23"/>
+		<DIV id="ninja_forms_field_23_error" style="display:none;" class="ninja-forms-field-error">
+		</DIV>
+							</DIV>
+												<DIV class="field-wrap list-dropdown-wrap label-above" id="ninja_forms_field_24_div_wrap" data-visible="1">
+							<INPUT type="hidden" id="ninja_forms_field_24_type" value="list"/>
+		<INPUT type="hidden" id="ninja_forms_field_24_list_type" value="dropdown"/>
+				<LABEL for="ninja_forms_field_24" id="ninja_forms_field_24_label" class="">Area of Interest 				</LABEL>
+					<SELECT name="ninja_forms_field_24" id="ninja_forms_field_24" class="ninja-forms-field " rel="24">
+									<OPTION value="Startup" selected="" style="">Startup</OPTION>
+									<OPTION value="Enterprise Applications" style="">Enterprise Applications</OPTION>
+									<OPTION value="Enterprise Marketing" style="">Enterprise Marketing</OPTION>
+									<OPTION value="Staffing" style="">Staffing</OPTION>
+									<OPTION value="Other" style="">Other</OPTION>
+							</SELECT>
+				<DIV id="ninja_forms_field_24_error" style="display:none;" class="ninja-forms-field-error">
+		</DIV>
+							</DIV>
+												<DIV class="field-wrap textarea-wrap label-above" id="ninja_forms_field_26_div_wrap" data-visible="1">
+							<INPUT type="hidden" id="ninja_forms_field_26_type" value="textarea"/>
+		<LABEL for="ninja_forms_field_26" id="ninja_forms_field_26_label" class="">Message <SPAN class="ninja-forms-req-symbol"><STRONG>*</STRONG></SPAN>				</LABEL>
+				<TEXTAREA name="ninja_forms_field_26" id="ninja_forms_field_26" class="ninja-forms-field  ninja-forms-req" rel="26" data-input-limit="" data-input-limit-type="char" data-input-limit-msg="character(s) left"/>
+			<DIV id="ninja_forms_field_26_error" style="display:none;" class="ninja-forms-field-error">
+		</DIV>
+							</DIV>
+												<DIV class="field-wrap recaptcha-wrap label-above" id="ninja_forms_field_27_div_wrap" data-visible="1">
+							<INPUT type="hidden" id="ninja_forms_field_27_type" value="recaptcha"/>
+		<LABEL for="ninja_forms_field_27" id="ninja_forms_field_27_label" class="">Confirm that you are not a bot <SPAN class="ninja-forms-req-symbol"><STRONG>*</STRONG></SPAN>				</LABEL>
+				<INPUT id="ninja_forms_field_27" name="ninja_forms_field_27" type="hidden" class="ninja-forms-field  ninja-forms-req" value="" rel="27"/>
+		<DIV class="g-recaptcha" data-callback="nf_recaptcha_set_field_value" data-sitekey="6Lej6g0TAAAAAE_-hFBnfnQ62IYwmck5CPFFh-iW"><DIV style="width: 304px; height: 78px;"><DIV><IFRAME src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lej6g0TAAAAAE_-hFBnfnQ62IYwmck5CPFFh-iW&amp;co=aHR0cHM6Ly93d3cuZGV2cmFiYml0LmNvbTo0NDM.&amp;hl=en&amp;v=v1556519546724&amp;size=normal&amp;cb=fqx7mwflp85b" width="304" height="78" role="presentation" name="a-tmrz3ndh7pd2" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-popups-to-escape-sandbox"/></DIV><TEXTAREA id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"/></DIV></DIV>
+        <SCRIPT type="text/javascript" src="https://www.google.com/recaptcha/api.js?hl=en"> </SCRIPT>
+		<SCRIPT type="text/javascript">
+            function nf_recaptcha_set_field_value(inpval){
+            	jQuery("#ninja_forms_field_27").val(inpval)
+            }
+            </SCRIPT>
+			<DIV id="ninja_forms_field_27_error" style="display:none;" class="ninja-forms-field-error">
+		</DIV>
+							</DIV>
+												<DIV class="field-wrap submit-wrap label-above" id="ninja_forms_field_28_div_wrap" data-visible="1">
+							<INPUT type="hidden" id="ninja_forms_field_28_type" value="submit"/>
+	<DIV id="nf_submit_6">
+		<INPUT type="submit" name="_ninja_forms_field_28" class="ninja-forms-field " id="ninja_forms_field_28" value="Send" rel="28"/>
+	</DIV>
+	<DIV id="nf_processing_6" style="display:none;">
+		<INPUT type="submit" name="_ninja_forms_field_28" class="ninja-forms-field " id="ninja_forms_field_28" value="Processing" rel="28" disabled=""/>
+	</DIV>
+		<DIV id="ninja_forms_field_28_error" style="display:none;" class="ninja-forms-field-error">
+		</DIV>
+							</DIV>
+							</DIV>
+		</FORM>
+		</DIV>
+		</DIV>
+	
+                </DIV>
+            </DIV>
+            <DIV class="col-md-8">
+                <DIV id="googlemap" style="display:block;">
+
+                    <DIV class="map" style="display:block;">
+
+
+                        <DIV style="display:block" class="foo" id="california">
+                            <IFRAME style="width:100%;" width="1200" height="247" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3156.7830929308484!2d-121.93706218481277!3d37.701292824157036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fec6f93622329%3A0xac850c36603668c9!2sDevRabbit+-+Software+Company+Dublin%2C+CA%2C+USA!5e0!3m2!1sen!2sin!4v1509946553046" marginwidth="0" marginheight="0" scrolling="no"/>     
+                        </DIV>
+						
+						<DIV id="pleasanton">
+                            <IFRAME style="width:100%;" width="1200" height="247" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12628.671503920934!2d-121.9310943!3d37.6922563!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x875746d1ecab2032!2sDevRabbit-+Software+Company+Pleasanton+%2CCA%2C+USA!5e0!3m2!1sen!2sin!4v1534151591582" marginwidth="0" marginheight="0" scrolling="no"/>     
+                        </DIV>
+
+
+                        <!-- <div id="texas">
+                            <iframe style="width:100%;" width="1200" height="247" frameborder="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=5312+Carnaby+St+Irving,+TX+75038&amp;aq=&amp;sll=32.8818240,-96.9609690&amp;sspn=32.8818240,-96.9609690&amp;ie=UTF8&amp;hq=&amp;hnear=5312+Carnaby+St+Irving,+TX+75038&amp;ll=32.8818240,-96.9609690&amp;spn=0.0131,0.01929&amp;t=m&amp;z=14&amp;output=embed" marginwidth="0" marginheight="0" scrolling="no"></iframe>    
+                        </div> -->
+
+
+                        <DIV id="hyderabad">
+                            <IFRAME width="100%" height="247" frameborder="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=DevRabbit+IT+Solutions,+8-2-268/R/5,+Sagar+Society+Hyderabad,+Telangana+500034,+India&amp;aq=1&amp;oq=logictree+it&amp;sll=17.428604,78.433198&amp;sspn=17.428604,78.433198&amp;ie=UTF8&amp;hq=DevRabbit+IT+Solutions,8-2-268/R/5,+Sagar+Society+Hyderabad,+Telangana+500034,+India&amp;t=m&amp;ll=17.428604,78.433198&amp;spn=0.020228,0.061283&amp;z=14&amp;output=embed" marginwidth="0" marginheight="0" scrolling="no"/>      
+                        </DIV>
+
+                        <DIV id="tirupathi" style="display:none;">
+                            <IFRAME width="100%" height="247" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1968249.718176358!2d77.80505061217741!3d15.525381341785787!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a4d4b0c7548bf05%3A0x8a7a7017aef3ffe7!2sDev+Rabbit!5e0!3m2!1sen!2sin!4v1509946621447" marginwidth="0" marginheight="0" scrolling="no"/>
+                        </DIV>
+
+                        <!-- <div id="bengaluru">
+                            <iframe width="100%" height="247" frameborder="0" src="https://maps.google.com/maps?source=s_q&amp;hl=en&amp;geocode=&amp;q=1st+AA+Cross,+201/202,+2nd Main,+3rd+Floor,Kasturinagar,+Main Road,Bangalore,India,&amp;aq=&amp;sll=13.0022770,77.6597630&amp;sspn=13.0022770,77.6597630&amp;ie=UTF8&amp;hq=1st+AA+Cross,+201/202,+2nd Main,+3rd+Floor,Kasturinagar,+Main Road,Bangalore,India&amp;t=m&amp;cid=1559755292329594153&amp;ll=13.0022770,77.6597630&amp;spn=0.020656,0.061283&amp;z=14&amp;iwloc=A&amp;output=embed" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+                        </div>   -->
+
+
+                    </DIV>
+                    <DIV id="service_indicator"/>
+                
+                    <DIV id="addresses">
+                    </DIV>
+                </DIV>
+            </DIV>
+        </DIV>
+
+        <DIV class="col-md-12">
+                    </DIV>
+    </DIV>
+</DIV>
+        </DIV>
+
+        <!-- ========================= END CONTENT ======================== -->
+
+
+
+
+
+        <!-- ========================= START CONTACT SECTION ======================== -->
+
+        
+            <SECTION>
+                <DIV class="bg-dark section-padding">
+                    <DIV class="container">
+                        <DIV class="row">
+                            <DIV class="col-md-12 footer-widget widget_text">			<DIV class="textwidget"><DIV class="section footer">
+      <DIV class="container">
+        <DIV class="row">
+        
+          <DIV class="col-sm-2 col-xs-6">
+            <H3 class="">Services</H3>
+            <UL class="list-unstyled text-theme">
+              <LI><A href="https://www.devrabbit.com/business-assurance-services/">Business Assurance Services</A></LI>
+              <LI><A href="https://www.devrabbit.com/bfs-testing/">BFS Testing</A></LI>
+              <LI><A href="https://www.devrabbit.com/enterprise-mobile-application-development-company/">Enterprise Applications</A></LI>
+              <LI><A href="https://www.devrabbit.com/enterprise-marketing/">Enterprise Marketing</A></LI>
+              <LI><A href="https://www.devrabbit.com/iot-solutions-and-services/">IoT Solutions And Services</A></LI>
+              <LI><A href="https://www.devrabbit.com/staffing/">Staffing</A></LI>
+            </UL>
+          </DIV>
+          
+       
+          <DIV class="col-sm-2 col-xs-6">
+            <H3 class="text-theme title-sm hr-left">Industries</H3>
+            <UL class="list-unstyled text-theme">
+ <LI><A href="https://www.devrabbit.com/bfs/">BFS</A></LI>
+              <LI><A href="https://www.devrabbit.com/industries/healthcare/">Healthcare</A></LI>
+              <LI><A href="https://www.devrabbit.com/industries/retail/">Retail/POS</A></LI>
+              <LI><A href="https://www.devrabbit.com/industries/education/">Education</A></LI>
+              <LI><A href="https://www.devrabbit.com/industries/consumer/">Consumer</A></LI>
+              <LI><A href="https://www.devrabbit.com/industries/automotive/">Automotive</A></LI>
+              <LI><A href="https://www.devrabbit.com/travel-hospitality/">Travel &amp; Hospitality</A></LI>
+            </UL>
+          </DIV>
+
+   <DIV class="col-sm-2 col-xs-6">
+            <H3 class="text-theme title-sm hr-left">Technology</H3>
+            <UL class="list-unstyled text-theme">
+              <LI><A href="https://www.devrabbit.com/technology/mobile-strategy/">Mobile Strategy</A></LI>
+              <LI><A href="https://www.devrabbit.com/technology/frameworks/">Frameworks</A></LI>
+              <LI><A href="https://www.devrabbit.com/technology/mobile-app-testing/">Mobile App Testing</A></LI>
+              <LI><A href="https://www.devrabbit.com/technology/mobile-bi/">Mobile BI</A></LI>
+              <LI><A href="https://www.devrabbit.com/technology/app-cloud-hosting/">App Cloud Hosting</A></LI>
+              <LI><A href="https://www.devrabbit.com/technology/xamarin-consulting/">Xamarin Consulting</A></LI>
+            </UL>
+          </DIV>
+
+          <DIV class="col-sm-2 col-xs-6">
+            <H3 class="text-theme title-sm hr-left">Insights</H3>
+            <UL class="list-unstyled text-theme">
+              <LI><A href="https://www.devrabbit.com/insights/blog/">Blog</A></LI>
+              <LI><A href="https://www.devrabbit.com/insights/case-studies/">Case Studies</A></LI>
+              <LI><A href="https://www.devrabbit.com/faq/">FAQ</A></LI>
+<LI><A href="https://www.devrabbit.com/sitemap/">Sitemap</A></LI>
+            </UL>
+            
+                        <H3 class="text-theme title-sm hr-left">Company</H3>
+            <UL class="list-unstyled text-theme">
+              <LI><A href="https://www.devrabbit.com/about/">About Us</A></LI>
+              <LI><A href="https://www.devrabbit.com/about/partnerships/">Partnerships</A></LI>
+              <LI><A href="https://www.devrabbit.com/careers/">Careers</A></LI>
+              <LI><A href="https://www.devrabbit.com/about/testimonials/">Testimonials</A></LI>
+<LI><A href="https://www.devrabbit.com/privacy-policy/">Privacy Policy</A></LI>
+            </UL>
+          </DIV>
+          
+          
+            <DIV class="col-sm-2 col-xs-6">
+            <H3 class="text-theme title-sm hr-left">Contact</H3>
+            <DIV class="contact">           
+            DevRabbit IT Solutions Inc.<BR/>
+            7950 Dublin Blvd.,<BR/> Suite 314, <BR/>
+            Dublin, CA 94568
+            </DIV>
+            <!-- <div class="contact">           
+            5312 Carnaby St Irving, TX 75038
+            </div> -->
+            
+            <DIV class="phone-email-wrap">
+            <SPAN><I class="fa fa-phone-square"/> 1-650-352-8686</SPAN>
+            <SPAN><A href="mailto:info@devrabbit.com"><I class="fa fa-envelope"/> info@devrabbit.com</A></SPAN>
+
+            </DIV> 
+            
+                        <DIV class="social-lins-fo">
+            <UL class="social-links-2">
+
+                                
+                                        <LI>
+                                            <A href="https://www.facebook.com/devrabbits" class="social-facebook" target="_blank"><I title="facebook" class="fa fa-facebook"/></A>
+
+                                        </LI>
+
+                                    
+                                        <LI>
+
+                                            <A href="https://twitter.com/socialdevrabbit" class="social-twitter" target="_blank"><I title="twitter" class="fa fa-twitter"/></A>
+
+                                        </LI>
+
+                                    
+                                        <LI>
+
+                                            <A href="https://plus.google.com/+Devrabbit" class="social-google" target="_blank"><I title="google" class="fa fa-google"/></A>
+
+                                        </LI>
+<LI><A class="social-linkedin" href="https://www.linkedin.com/company/devrabbit-it-solutions/" target="_blank"><I class="fa fa-linkedin" title="LinkedIn"/></A></LI>
+                                    
+                            </UL>
+            </DIV>
+                        
+          </DIV>
+<DIV class="col-sm-2 col-xs-6"><BR/><BR/><A href="https://www.uscis.gov/e-verify" title="U.S. Department of Homeland Security Seal, U.S. Citizenship and Immigration Services" target="_blank"><IMG src="https://www.devrabbit.com/images/everify.jpg"/></A></DIV>
+        </DIV>
+      </DIV>
+    </DIV></DIV>
+		</DIV>                        </DIV>
+                    </DIV>
+                </DIV>
+            </SECTION>
+
+        
+        <!-- ========================= END CONTACT SECTION ======================== -->
+
+
+
+
+
+        <!-- ========================= START FOOTER ======================== -->
+
+        <FOOTER class="main-footer">
+
+            <!-- Copyright section -->
+
+            <DIV class="small-footer d-bg-c">
+
+                <DIV class="container">
+
+                    <DIV class="row">
+
+                        <P>� Copyright 2016-2018 DevRabbit IT Solutions, Inc. All Rights Reserved.</P>
+
+                    </DIV> <!-- /.row -->
+
+                </DIV> <!-- /.container -->         
+
+            </DIV><!-- /.small-footer -->           
+
+        </FOOTER><!-- /.main-footer -->
+
+        <!-- ========================= END FOOTER ======================== -->
+
+
+
+        <!-- ======================================================================
+
+                                        START SCRIPTS
+
+        ======================================================================= -->
+
+        <!--[if lt IE 9]>
+
+          <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+
+          <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+
+        <![endif]-->
+
+        <SCRIPT> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); 
+
+ga('create', 'UA-79698403-1', 'auto'); 
+ga('send', 'pageview'); 
+
+</SCRIPT>
+
+<SCRIPT type="application/ld+json"> 
+{
+  "@type": "LocalBusiness",
+  "name": "Software Solutions Development Company",
+  "url": "https://www.devrabbit.com/",
+  "logo": "https://www.devrabbit.com/wp-content/uploads/2016/10/logo.png",
+  "image": "https://www.devrabbit.com/wp-content/uploads/2016/10/logo.png",
+  "description": "DevRabbit is the emerging leader in Startup and enterprise software solutions,
+with over 100+ satisfied users in US, India and other parts of the world.  DevRabbit offers custom
+solutions as well as ready-to deploy mobile-enabling solutions for diverse industry verticals across
+all standard mobile platforms for your startup enterprise. Contact Now DevRabbit for your startup &amp;
+enterprise' Web and Mobile App Development.",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "7950 Dublin Blvd.,",
+    "postOfficeBoxNumber": "Suite 314,",
+    "addressLocality": "Dublin,",
+    "addressRegion": "CA",
+    "postalCode": "94568",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "37.701288",
+    "longitude": "-121.934873"
+  },
+  "hasMap": "https://goo.gl/maps/bg1pE2jqLF32",
+  "openingHours": "Mo, Tu, We, Th, Fr 09:30-18:30",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone" : "+1-650-352-8686",
+    "areaServed" : ["US"],
+    "availableLanguage" : ["English"],
+    "telephone" : "+91-40-2355-1445",
+    "areaServed" : ["India"],
+    "availableLanguage" : ["English"],
+    "contactType": "Customer Service"
+}
+},
+</SCRIPT>
+
+<SCRIPT type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "Thing",
+    "name": "Affordable Software Solutions Developer for Startups and Enterprises"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "Rami.J"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "4.8",
+    "bestRating": "5"
+  },
+"reviewBody": "DevRabbit is a Best and Pocket friendly Software Development Company in US and
+India.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "DevRabbit"
+  }
+}
+</SCRIPT>
+
+<SCRIPT type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://www.devrabbit.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://query.devrabbit.com/search?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</SCRIPT>
+
+<SCRIPT type="application/ld+json">
+{ "@context" : "https://schema.org",
+  "@type" : "Organization",
+  "name" : "DevRabbit",
+  "url" : "https://www.devrabbit.com",
+  "sameAs" : [ "https://www.facebook.com/devrabbits",
+    "https://twitter.com/socialdevrabbit",
+    "https://www.linkedin.com/company/devrabbit-it-solutions",
+    "https://plus.google.com/+Devrabbit"]
+}
+</SCRIPT>
+
+
+        <SCRIPT data-cfasync="false">
+  var logout_link = document.querySelectorAll('a[href*="wp-login.php?action=logout"]');
+  if (logout_link) {
+    for(var i=0; i &lt; logout_link.length; i++) {
+      logout_link[i].addEventListener( "click", function() {
+        Intercom('shutdown');
+      });
+    }
+  }
+</SCRIPT>
+<SCRIPT data-cfasync="false">
+  window.intercomSettings = {"app_id":"s13dlt9i"};
+</SCRIPT>
+<SCRIPT data-cfasync="false">(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/s13dlt9i';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</SCRIPT><LINK rel="stylesheet" id="ninja-forms-display-css" href="https://www.devrabbit.com/wp-content/plugins/ninja-forms/css/ninja-forms-display.css?nf_ver=2.9.24&amp;ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="jquery-qtip-css" href="https://www.devrabbit.com/wp-content/plugins/ninja-forms/css/qtip.css?ver=4.2.23" type="text/css" media="all"/>
+<LINK rel="stylesheet" id="jquery-rating-css" href="https://www.devrabbit.com/wp-content/plugins/ninja-forms/css/jquery.rating.css?ver=4.2.23" type="text/css" media="all"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/spinner.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/ui/effect-shake.min.js?ver=1.11.4"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/tabs-responsive/assets/js/bootstrap.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;libraries=places&amp;ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/tesla_framework/static/js/subscription.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="//w.sharethis.com/button/buttons.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/bootstrap.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/countdown.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/farbtastic/farbtastic-dev.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/farbtastic/farbtastic.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/imagesloaded.pkgd.min.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/jquery-ui.min.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/jquery.appear.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/jquery.swipebox.min.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/masonry.pkgd.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/modernizr.custom.63321.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/placeholder.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/plugins.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/themes/yopta/js/options.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/comment-reply.min.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/ninja-forms/js/min/jquery.maskedinput.min.js?ver=4.2.23"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/underscore.min.js?ver=1.6.0"/><IFRAME src="https://c.sharethis.mgr.consensu.org/v1.0/cmp/portal.html" id="st_gdpr_iframe" style="width: 0px; height: 0px; position: absolute; left: -5000px;"/>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-includes/js/backbone.min.js?ver=1.1.2"/>
+<SCRIPT type="text/javascript">
+/* &lt;![CDATA[ */
+var ninja_forms_settings = {"ajax_msg_format":"inline","password_mismatch":"The passwords provided do not match.","plugin_url":"https:\/\/www.devrabbit.com\/wp-content\/plugins\/ninja-forms\/","datepicker_args":{"dateFormat":"dd\/mm\/yy"},"currency_symbol":"$","date_format":"dd\/mm\/yy"};
+var thousandsSeparator = ",";
+var decimalPoint = ".";
+var ninja_forms_form_6_settings = {"ajax":"0","hide_complete":"1","clear_complete":"1"};
+var ninja_forms_form_6_calc_settings = {"calc_value":{"24":{"Startup":0,"Enterprise Applications":0,"Enterprise Marketing":0,"Staffing":0,"Other":0}},"calc_fields":[]};
+var ninja_forms_password_strength = {"empty":"Strength indicator","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
+/* ]]&gt; */
+</SCRIPT>
+<SCRIPT type="text/javascript" src="https://www.devrabbit.com/wp-content/plugins/ninja-forms/js/min/ninja-forms-display.min.js?nf_ver=2.9.24&amp;ver=4.2.23"/>
+    <SCRIPT type="text/javascript"/>
+            
+        
+<SCRIPT src="//adpxl.co/JJ16eC5f/an.js"/><NOSCRIPT>&lt;img src="//adpxl.co/JJ16eC5f/spacer.gif" alt=""&gt;</NOSCRIPT>
+    
+
+
+
+<SCRIPT>
+    jQuery(document).ready(function () {
+                jQuery("#clf").click(function () {
+         jQuery('#service_indicator').css({backgroundPosition: '-650px 0'});
+         jQuery('.foo').hide();
+         jQuery('.foo').toggleClass('foo');
+         jQuery('#california').fadeIn();
+         jQuery('#california').addClass('foo');
+         
+         });
+		 
+		jQuery("#pls").click(function () {
+         jQuery('#service_indicator').css({backgroundPosition: '-650px 0'});
+         jQuery('.foo').hide();
+         jQuery('.foo').toggleClass('foo');
+         jQuery('#pleasanton').fadeIn();
+         jQuery('#pleasanton').addClass('foo');
+         
+         });
+         
+         jQuery("#hyd").click(function () {
+         jQuery('#service_indicator').css({backgroundPosition: '-340px 0'});
+         jQuery('.foo').hide();
+         jQuery('.foo').toggleClass('foo');
+         jQuery('#hyderabad').fadeIn();
+         jQuery('#hyderabad').addClass('foo');
+         
+         });
+
+         jQuery("#tpth").click(function () {
+         jQuery('#service_indicator').css({backgroundPosition: '-510px 0'});
+         jQuery('.foo').hide();
+         jQuery('.foo').toggleClass('foo');
+         jQuery('#tirupathi').fadeIn();
+         jQuery('#tirupathi').addClass('foo');
+         
+         });
+         
+         /*jQuery("#tx").click(function () {
+         jQuery('#service_indicator').css({backgroundPosition: '-510px 0'});
+         jQuery('.foo').hide();
+         jQuery('.foo').toggleClass('foo');
+         jQuery('#texas').fadeIn();
+         jQuery('#texas').addClass('foo');
+         
+         });
+         jQuery("#bng").click(function () {
+         jQuery('#service_indicator').css({backgroundPosition: '-200px 0'});
+         jQuery('.foo').hide();
+         jQuery('.foo').toggleClass('foo');
+         jQuery('#bengaluru').fadeIn();
+         jQuery('#bengaluru').addClass('foo');
+         });*/
+
+    });
+</SCRIPT><DIV id="stcpDiv" style="position: absolute; top: -1999px; left: -1988px;">ShareThis Copy and Paste</DIV><DIV id="stwrapper" class="stwrapper stwrapper4x" style="display: none;"><IFRAME allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" src="https://ws.sharethis.com/secure/index.html"/></DIV><DIV id="stOverlay" onclick="javascript:stWidget.closeWidget();"/><DIV style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><DIV style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"/><DIV class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"/><DIV class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"/><DIV style="z-index: 2000000000; position: relative;"><IFRAME title="recaptcha challenge" src="https://www.google.com/recaptcha/api2/bframe?hl=en&amp;v=v1556519546724&amp;k=6Lej6g0TAAAAAE_-hFBnfnQ62IYwmck5CPFFh-iW&amp;cb=4nwb4vk90ekw" name="c-tmrz3ndh7pd2" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"/></DIV></DIV><IFRAME id="intercom-frame" style="display: none;"/><DIV id="intercom-css-container"><STYLE data-emotion="css-global"/><STYLE data-emotion="css"/></DIV><DIV id="intercom-container" class="intercom-namespace"><STYLE>html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active &gt; body,html.intercom-modal-open,#intercom-container-body{overflow:hidden !important;}html.intercom-mobile-messenger-active,html.intercom-mobile-messenger-active &gt; body{position:static !important;}html.intercom-mobile-messenger-active &gt; body{height:0 !important;margin:0 !important;}</STYLE><DIV class="intercom-app" aria-live="polite"><IFRAME allowfullscreen="" class="intercom-launcher-frame css-1yfj91 e1oluflk1" name="intercom-launcher-frame" title="Intercom Live Chat" data-intercom-frame="true"/></DIV></DIV></BODY></HTML>

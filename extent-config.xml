@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+  <configuration>
+    <!-- report theme -->
+    <!-- standard, dark -->
+    <theme>standard</theme>
+
+    <!-- document encoding -->
+    <!-- defaults to UTF-8 -->
+    <encoding>UTF-8</encoding>
+
+    <!-- protocol for script and stylesheets -->
+    <!-- defaults to https -->
+    <protocol>https</protocol>
+
+    <!-- title of the document -->
+    <documentTitle>DEMOPROJECTNEW</documentTitle>
+
+    <!-- report name - displayed at top-nav -->
+    <reportName>DevRabbit - </reportName>
+
+    <!-- report headline - displayed at top-nav, after reportHeadline -->
+    <reportHeadline>TEST AUTOMATION FRAMEWORK</reportHeadline>
+
+    <!-- global date format override -->
+    <!-- defaults to yyyy-MM-dd -->
+    <dateFormat>yyyy-MM-dd</dateFormat>
+
+    <!-- global time format override -->
+    <!-- defaults to HH:mm:ss -->
+    <timeFormat>HH:mm:ss</timeFormat>
+
+    <!-- custom javascript -->
+    <scripts>
+      <![CDATA[
+                $(document).ready(function() {
+                    $(".logo-content").hide();
+                    $(".logo-container").html("DEMOPROJECTNEW");
+                });
+            ]]>
+function clickImage(e){
+			
+		var imageic = e.src;
+		var imagealt = e.alt;
+		
+		swal({
+		  title: imagealt,
+		  imageUrl: imageic,
+		  imageWidth: 600,
+		  imageHeight: 280,
+		  imageAlt: 'Custom image',
+		  animation: false
+		})
+		}    </scripts>
+
+    <!-- custom styles -->
+    <styles>
+      <![CDATA[
+       .logo-content, nav{
+        background-color: #ff8f00;
+       }    
+                            
+      .nav-right li {
+        border-left:0px;
+        font-size: 18px;    
+      }
+      
+ .logo-container {
+			width: 300px;
+		}
+	  nav, nav .nav-wrapper i, nav a.button-collapse, .logo a, nav label {
+		    padding-left: 300px;
+		}
+                    .nav-right li:last-child {
+      Display:none;
+      }
+            ]]>
+    </styles>
+  </configuration>
+</extentreports>
